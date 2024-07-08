@@ -47,9 +47,13 @@ function TeamSection({ data }: TeamSectionProps) {
             }
           >
             {data.cards.map((card) => {
-              return (
-                <PersonCard key={card.id} photo={card.photo} name={card.name} bio={card.bio} />
-              );
+              //Hide Leandro Alves as requested 2024-07-08
+              //Remove when needed to show again.
+              if(card.id != 1){
+                return (
+                  <PersonCard key={card.id} photo={card.photo} name={card.name} bio={card.bio} />
+                );
+              }
             })}
           </div>
         </Container>
