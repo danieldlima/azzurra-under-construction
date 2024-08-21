@@ -28,17 +28,17 @@
             {
               "id": 0,
               "title": "MANAGEMENT",
-              "description": "Asset management considering the individual investment policy and the most adherent investment theses."
+              "description": "Asset management taking into account the individual investment policy of each client, using theses that are more adherent to their objectives. Portfolio built with the possibility of using several institutions (banks and brokers)."
             },
             {
               "id": 1,
               "title": "CONSOLIDATION",
-              "description": "Consolidation of the client's total assets, with our own technology."
+              "description": "Asset consolidation through a monthly report that unifies all financial positions of various institutions, including real estate."
             },
             {
               "id": 2,
               "title": "CENTRALIZATION",
-              "description": "Centralization of the intermediation and coordination of all relationships involving the client's assets, including family and/or corporate aspects."
+              "description": "Centralization and coordination of all relationships involving the client's assets, including family and corporate aspects. The customer now handles all their financial affairs in one place."
             }
           ]
         }
