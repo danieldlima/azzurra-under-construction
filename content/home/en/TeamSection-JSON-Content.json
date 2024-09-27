@@ -73,7 +73,7 @@
       "photo": "/images/profiles/08.png",
       "bio": {
         "fullName": "Legal Director",
-        "text": "A lawyer for over 20 years, he has extensive experience in estate and succession planning, with an emphasis on private international law, family and succession law, real estate, notarial, registry and capital market law. As Legal Director at Azzurra Capital, he designs the best ways to structure our clients' investments, carry out planning and succession in multiple jurisdictions. He graduated in Law from Faculdades Metropolitanas Unidas (FMU), with a postgraduate degree in Civil Procedural Law from the Pontifical Catholic University of São Paulo (PUC/SP) and a postgraduate degree in Estate and Succession Planning from Fundação Getúlio Vargas (FGV)."
+        "text": "A lawyer for over 20 years, he has extensive experience in estate and succession planning, with an emphasis on private international law, family and succession law, real estate, notarial, registry and capital market law. As Legal Director at Azzurra Capital, he designs the best ways to structure our clients' investments, carry out planning and succession in multiple jurisdictions. He graduated in Law from Faculdades Metropolitanas Unidas (FMU), with a postgraduate degree in Civil Procedural Law from the Pontifical Catholic University of São Paulo (PUC/SP) and a postgraduate degree in Estate and Succession Planning from Fundação Getúlio Vargas (FGV). Member of the Working Group – Succession Planning and Holdings of the Brazilian Bar Association, São Paulo Section (2022/2024)."
       }
     },
     {
@@ -96,7 +96,7 @@
     },{
       "id": 10,
       "name": "Gabriela Resende",
-      "photo": "/images/profiles/azzurra__team-section__fallback-profile-img.png",
+      "photo": "/images/profiles/13.png",
       "bio": {
         "fullName": "Risk and Compliance Director",
         "text": "Graduated in law, she has been a lawyer for over 8 years, has a postgraduate degree in the Labor area and also specializes in Contracts. She has experience in managing private companies, currently director of the Risk and Compliance area at Azzurra Capital."
@@ -107,6 +107,22 @@
       "photo": "/images/profiles/11.png",
       "bio": {
         "fullName": "",
+        "text": ""
+      }
+    },{
+      "id": 12,
+      "name": "Igor Menezes",
+      "photo": "/images/profiles/15.png",
+      "bio": {
+        "fullName": "Operational BackOffice",
+        "text": ""
+      }
+    },{
+      "id": 13,
+      "name": "Vincenzo Iannuzzi",
+      "photo": "/images/profiles/16.png",
+      "bio": {
+        "fullName": "Operational BackOffice",
         "text": ""
       }
     }

@@ -10,6 +10,7 @@ import InvestmentPolicySection from '@content/home/en/InvestmentPolicySection-JS
 import NavItems from '@content/home/en/NavItems-JSON-Content.json';
 import RegulatoryInformationSection from '@content/home/en/RegulatoryInformationSection-JSON-Content.json';
 import TeamSection from '@content/home/en/TeamSection-JSON-Content.json';
+import HeadquartersSection from '@content/home/en/HeadquartersSection-JSON-Content.json';
 
 import Home from '@templates/Home';
 import { FooterProps } from '@templates/Home/components/Footer';
@@ -28,6 +29,7 @@ const IndexPage: React.FC<PageProps> = () => {
           investmentPolicySection: InvestmentPolicySection,
           teamSection: TeamSection,
           regulatoryInformationSection: RegulatoryInformationSection,
+          headquartersSection: HeadquartersSection,
           contactSection: ContactSection,
           footerSection: FooterSection as FooterProps['data']
         }}

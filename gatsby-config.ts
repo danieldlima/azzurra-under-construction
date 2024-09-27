@@ -7,8 +7,31 @@ const path = require('path');
 const config: GatsbyConfig = {
   graphqlTypegen: true,
   plugins: [
+    {
+      resolve: 'gatsby-plugin-htaccess',
+      options: {
+        https: true,
+        www: true,
+        SymLinksIfOwnerMatch: true,
+        host: 'www.azzurracapital.com.br',
+        custom: `
+            ##### LOCAWEB - NAO REMOVER #####
+            AddHandler php80-script .php
+            suPHP_ConfigPath /home/azzurracapital1/
+            ##### LOCAWEB - NAO REMOVER #####
+            # Custom HTTPS force Rule
+        `,
+      },
+    },
     'gatsby-plugin-postcss',
     `gatsby-plugin-image`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `photos`,
+        path: `${__dirname}/src/images`,
+      },
+    },
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     'gatsby-plugin-svgr',

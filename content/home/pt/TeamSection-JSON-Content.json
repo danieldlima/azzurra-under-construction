@@ -72,8 +72,8 @@
       "name": "Dr. Rogério Bassit Sallum",
       "photo": "/images/profiles/08.png",
       "bio": {
-        "fullName": "Diretor Legal",
-        "text": "Advogado formado há mais de 20 anos, possui ampla experiência em planejamento patrimonial e sucessório, com ênfase em direito internacional privado, direito de família e sucessões, direito imobiliário, notarial, registral e mercado de capitais. Como Diretor Jurídico da Azzurra Capital, arquiteta as melhores formas de estruturar os investimentos de nossos clientes, efetuar o planejamento e a sua sucessão em múltiplas jurisdições. Graduou-se em Direito pela Faculdades Metropolitanas Unidas (FMU), sendo pós-graduado em Direito Processual Civil pela Pontifícia Universidade Católica de São Paulo (PUC/SP) e pós-graduado em Planejamento Patrimonial e Sucessório pela Fundação Getúlio Vargas (FGV)."
+        "fullName": "Diretor Jurídico",
+        "text": "Advogado formado há mais de 20 anos, possui ampla experiência em planejamento patrimonial e sucessório, com ênfase em direito internacional privado, direito de família e sucessões, direito imobiliário, notarial, registral e mercado de capitais. Como Diretor Jurídico da Azzurra Capital, arquiteta as melhores formas de estruturar os investimentos de nossos clientes, efetuar o planejamento e a sua sucessão em múltiplas jurisdições. Graduou-se em Direito pela Faculdades Metropolitanas Unidas (FMU), sendo pós-graduado em Direito Processual Civil pela Pontifícia Universidade Católica de São Paulo (PUC/SP) e pós-graduado em Planejamento Patrimonial e Sucessório pela Fundação Getúlio Vargas (FGV). Membro do Grupo de Trabalho – Planejamento Sucessório e Holdings da Ordem dos Advogados do Brasil, Seção São Paulo (2022/2024)."
       }
     },
     {
@@ -96,7 +96,7 @@
     },{
       "id": 10,
       "name": "Gabriela Resende",
-      "photo": "/images/profiles/azzurra__team-section__fallback-profile-img.png",
+      "photo": "/images/profiles/13.png",
       "bio": {
         "fullName": "Diretora de Risco e Compliance",
         "text": "Formada em direito, advoga há mais de 8 anos, possui pós-graduação na área Trabalhista e também é especializada em Contratos. Tem experiência na administração de empresas privadas, atualmente diretora na área de Risco e Compliance da Azzurra Capital."
@@ -107,6 +107,22 @@
       "photo": "/images/profiles/11.png",
       "bio": {
         "fullName": "",
+        "text": ""
+      }
+    },{
+      "id": 12,
+      "name": "Igor Menezes",
+      "photo": "/images/profiles/15.png",
+      "bio": {
+        "fullName": "Operacional BackOffice",
+        "text": ""
+      }
+    },{
+      "id": 13,
+      "name": "Vincenzo Iannuzzi",
+      "photo": "/images/profiles/16.png",
+      "bio": {
+        "fullName": "Operacional BackOffice",
         "text": ""
       }
     }

@@ -106,7 +106,7 @@ function PersonCard({ name, photo, bio }: PersonCardProps) {
         'bg-cover bg-90% bg-no-repeat bg-center rounded-lg p-4 overflow-hidden'
       }
       style={
-        {backgroundImage: `url("${photo}")`, backgroundPosition: "top" }
+        {backgroundImage: `url("${photo}")`, backgroundPosition: "top", backgroundSize: "cover" }
       }
     >
       <div className="w-full h-full flex justify-center"

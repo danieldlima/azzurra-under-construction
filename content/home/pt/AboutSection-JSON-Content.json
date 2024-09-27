@@ -28,17 +28,17 @@
             {
               "id": 0,
               "title": "GESTÃO",
-              "description": "Gestão de recursos levando em consideração a política individual de investimentos e teses de investimento mais aderentes."
+              "description": "Gestão de recursos levando em consideração a política individual de investimentos de cada cliente, utilizando teses mais aderentes aos seus objetivos. Portifólio construído com a possibilidade de utilizar diversas instituições (bancos e corretoras)."
             },
             {
               "id": 1,
               "title": "CONSOLIDAÇÃO",
-              "description": "Consolidação do patrimônio total do cliente, com tecnologia própria."
+              "description": "Consolidação patrimonial através de um relatório mensal que unifica todas as posições financeiras de várias instituições, inclusive patrimônio imobiliário."
             },
             {
               "id": 2,
               "title": "CENTRALIZAÇÃO",
-              "description": "Centralização da intermediação e coordenação de todas as relações que envolvem o patrimônio do cliente, incluindo aspectos familiares e/ou societários."
+              "description": "Centralização e coordenação de todas as relações que envolvem o patrimônio do cliente, incluindo aspectos familiares e societários. O cliente passa a tratar de todos seus assuntos financeiros em um só lugar."
             }
           ]
         }

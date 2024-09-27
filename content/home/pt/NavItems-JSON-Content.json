@@ -17,6 +17,11 @@
     },
     {
       "id": 3,
+      "link": "headquarters",
+      "label": "Nossa Sede"
+    },
+    {
+      "id": 4,
       "link": "contact",
       "label": "Contato"
     }

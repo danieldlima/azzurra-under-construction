@@ -1,0 +1,48 @@
+{
+  "title": [
+    "Meet",
+    "Our Headquarters"
+  ],
+  "cards": [
+    {
+      "id": 0,
+      "text": "Teste Image",
+      "photo": "../../images/photos/headquarters_1.jpg"
+    },
+    {
+      "id": 1,
+      "text": "Teste Image",
+      "photo": "/images/photos/headquarters_2.jpg"
+    },
+    {
+      "id": 2,
+      "text": "Teste Image",
+      "photo": "/images/photos/headquarters_3.jpg"
+    },
+    {
+      "id": 3,
+      "text": "Teste Image",
+      "photo": "/images/photos/headquarters_4.jpg"
+    },
+    {
+      "id": 4,
+      "text": "Teste Image",
+      "photo": "/images/photos/headquarters_5.jpg"
+    },
+    {
+      "id": 5,
+      "text": "Teste Image",
+      "photo": "/images/photos/headquarters_6.jpg"
+    },
+    {
+      "id": 6,
+      "text": "Teste Image",
+      "photo": "/images/photos/headquarters_7.jpg"
+    },
+    {
+      "id": 7,
+      "text": "Teste Image",
+      "photo": "/images/photos/headquarters_8.jpg"
+    }
+  ]
+}

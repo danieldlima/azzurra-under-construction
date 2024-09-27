@@ -21,6 +21,9 @@ import RegulatoryInformationSection, {
 import TeamSection, {
   TeamSectionProps
 } from '@templates/Home/components/TeamSection';
+import HeadquartersSection, {
+  HeadquartersSectionProps
+} from '@templates/Home/components/HeadquartersSection';
 
 interface HomeProps {
   data: {
@@ -29,6 +32,7 @@ interface HomeProps {
     investmentPolicySection: InvestmentPolicySectionProps['data'];
     teamSection: TeamSectionProps['data'];
     regulatoryInformationSection: RegulatoryInformationSectionProps['data'];
+    headquartersSection: HeadquartersSectionProps['data'];
     contactSection: ContactSectionProps['data'];
     footerSection: FooterProps['data'];
   };
@@ -49,6 +53,7 @@ const Home = ({ data }: HomeProps) => {
             data={data.regulatoryInformationSection}
           />
         </section>
+        <HeadquartersSection data={data.headquartersSection} />
         <ContactSection data={data.contactSection} />
       </main>
       <Footer data={data.footerSection} />

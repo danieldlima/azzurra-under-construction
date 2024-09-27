@@ -46,7 +46,8 @@ module.exports = {
         '50%': '50%',
         '70%': '70%',
         '80%': '80%',
-        '90%': '90%'
+        '90%': '90%',
+        'headquarters-section': 'cover'
       },
       backdropSaturate: {
         'nav-light': '180%'
@@ -64,6 +65,7 @@ module.exports = {
         'gradient-light':
           'radial-gradient(circle, rgb(255 255 255 / 70%) 0%, rgb(255 255 255 / 0%) 50%)',
         'team-section': `url('/images/azzurra__team-section__bg.jpg')`,
+        'headquarters-section': `url('/images/azzurra__headquarters-section__bg.jpg')`,
         'team-person-card': `url('/images/azzurra__team-section__fallback-profile-img.png')`,
         'regulatory-information': `url('/images/azzurra__investment-policy__bg.jpg')`,
         'contact-form': `url('/images/azzurra__contact-section__bg.png')`,
