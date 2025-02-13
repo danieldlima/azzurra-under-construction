@@ -111,14 +111,6 @@
       }
     },{
       "id": 12,
-      "name": "Igor Menezes",
-      "photo": "/images/profiles/15.png",
-      "bio": {
-        "fullName": "Operational BackOffice",
-        "text": ""
-      }
-    },{
-      "id": 13,
       "name": "Vincenzo Iannuzzi",
       "photo": "/images/profiles/16.png",
       "bio": {
